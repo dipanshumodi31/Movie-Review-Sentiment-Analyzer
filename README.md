@@ -106,31 +106,28 @@ Implemented Algorithms:
 
 ## 📊 Visualizations  
 
-1. **Sentiment Analysis Pipeline**  
-   ![Pipeline](./assets/pipeline.png)  
-
-2. **WordClouds (Positive vs Negative)**  
+1. **WordClouds (Positive vs Negative)**  
    ![WordCloud Comparison](./assets/wordcloud_comparison.png)  
 
-3. **Distribution of Review Lengths**  
+2. **Distribution of Review Lengths**  
    ![Review Lengths](./assets/histogram_review_length.png)  
 
-4. **Confusion Matrix (Logistic Regression)**  
+3. **Confusion Matrix (Logistic Regression)**  
    ![Confusion Matrix](./assets/confusion_matrix.png)  
 
-5. **ROC Curves for All Models**  
+4. **ROC Curves for All Models**  
    ![ROC Curve](./assets/roc_curve.png)  
 
-6. **Model Performance Comparison**  
+5. **Model Performance Comparison**  
    ![Model Comparison](./assets/model_comparison.png)  
 
-7. **Deployment Demo (Positive Review)**  
+6. **Deployment Demo (Positive Review)**  
    ![Demo Positive](./assets/demo_positive.png)  
 
-8. **Deployment Demo (Negative Review)**  
+7. **Deployment Demo (Negative Review)**  
    ![Demo Negative](./assets/demo_negative.png)  
 
-9. **Deployment Demo (Sarcasm Review - Lacks the Intelligence for it currently)**
+8. **Deployment Demo (Sarcasm Review - Lacks the Intelligence for it currently)**
    ![Demo Sarcasm](./assets/demo_sarcasm.png)
 
 ---
