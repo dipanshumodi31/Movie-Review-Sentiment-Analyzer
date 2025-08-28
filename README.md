@@ -1,7 +1,6 @@
-# 🎬 Movie Sentiment Analyzer  
+# 🎬 Movie Review Sentiment Analyzer  
 
 ![Project Banner](./assets/banner.png)  
-*A complete end-to-end sentiment analysis project on movie reviews using NLP and Machine Learning.*  
 
 ---
 
